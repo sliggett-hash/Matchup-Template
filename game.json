@@ -2,7 +2,7 @@
   "id": "matchup-original-01",
   "title": "MATCH-UP",
   "instructions": "Choose a definition, then choose the picture that matches it.",
-  "workerUrl": "https://matchup-leaderboard.sliggett.workers.dev",
+  "workerUrl": "https://matchup-universal.sliggett.workers.dev",
   "columns": 5,
   "definitionExtension": ".png",
   "imageExtension": ".png",
